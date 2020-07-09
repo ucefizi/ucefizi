@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello -- ⴰⵣⵓⵍ 👋
+
+I am a passionately curious young software engineer with two years of experience in developing microservices and REST APIs using Spring Boot.
+I also have great interests in operating systems, algorithms and competitive programming.
 
 <!--
 **ucefizi/ucefizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
