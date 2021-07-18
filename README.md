@@ -1,9 +1,9 @@
 ### Hello -- ⴰⵣⵓⵍ 👋
 
-I am a passionate and curious young software engineer. I spent the past two years developing microservices and REST APIs using Spring Boot.
+I am a passionate and curious young software engineer. I spent the past three years developing microservices and REST APIs using Spring Boot and various other Java frameworks.
 I also have great interests in operating systems, algorithms and competitive programming.  
 
-Currently working as a Software Development Engineer within The AWS CloudWatch team.  
+I am Currently working as a Software Development Engineer within The Amazon CloudWatch org.  
 
 <!--
 **ucefizi/ucefizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
